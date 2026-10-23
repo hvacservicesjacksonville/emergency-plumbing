@@ -1,0 +1,291 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/bathtub-installation.html",
+      "destination": "/bathtub-installation",
+      "permanent": true
+    },
+    {
+      "source": "/bathtub-repair.html",
+      "destination": "/bathtub-repair",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning.html",
+      "destination": "/drain-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-plumbing-repair.html",
+      "destination": "/emergency-plumbing-repair",
+      "permanent": true
+    },
+    {
+      "source": "/faucet-installation.html",
+      "destination": "/faucet-installation",
+      "permanent": true
+    },
+    {
+      "source": "/faucet-repair.html",
+      "destination": "/faucet-repair",
+      "permanent": true
+    },
+    {
+      "source": "/garbage-disposal-installation.html",
+      "destination": "/garbage-disposal-installation",
+      "permanent": true
+    },
+    {
+      "source": "/garbage-disposal-repair.html",
+      "destination": "/garbage-disposal-repair",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-and-repair.html",
+      "destination": "/leak-detection-and-repair",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/pipe-repair.html",
+      "destination": "/pipe-repair",
+      "permanent": true
+    },
+    {
+      "source": "/pipe-replacement.html",
+      "destination": "/pipe-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-all-saints.html",
+      "destination": "/plumbing-all-saints",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-arrowhead-park.html",
+      "destination": "/plumbing-arrowhead-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-brandon-heights.html",
+      "destination": "/plumbing-brandon-heights",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-cathedral-historic-district.html",
+      "destination": "/plumbing-cathedral-historic-district",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-coventry.html",
+      "destination": "/plumbing-coventry",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-downtown-sioux-falls.html",
+      "destination": "/plumbing-downtown-sioux-falls",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-dunham-park.html",
+      "destination": "/plumbing-dunham-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-falls-park.html",
+      "destination": "/plumbing-falls-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-fox-run.html",
+      "destination": "/plumbing-fox-run",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-hayward-heights.html",
+      "destination": "/plumbing-hayward-heights",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-installation.html",
+      "destination": "/plumbing-installation",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-mckennan-park.html",
+      "destination": "/plumbing-mckennan-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-pettigrew-heights.html",
+      "destination": "/plumbing-pettigrew-heights",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-prairie-green.html",
+      "destination": "/plumbing-prairie-green",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-sherman-park.html",
+      "destination": "/plumbing-sherman-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-stonegate.html",
+      "destination": "/plumbing-stonegate",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-sylvan-park.html",
+      "destination": "/plumbing-sylvan-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-tuthill-park.html",
+      "destination": "/plumbing-tuthill-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-westwood.html",
+      "destination": "/plumbing-westwood",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-whittier.html",
+      "destination": "/plumbing-whittier",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-willow-ridge.html",
+      "destination": "/plumbing-willow-ridge",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/repiping.html",
+      "destination": "/repiping",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-camera-inspection.html",
+      "destination": "/sewer-camera-inspection",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-repair.html",
+      "destination": "/sewer-line-repair",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-replacement.html",
+      "destination": "/sewer-line-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/shower-installation.html",
+      "destination": "/shower-installation",
+      "permanent": true
+    },
+    {
+      "source": "/shower-repair.html",
+      "destination": "/shower-repair",
+      "permanent": true
+    },
+    {
+      "source": "/sink-installation.html",
+      "destination": "/sink-installation",
+      "permanent": true
+    },
+    {
+      "source": "/sink-repair.html",
+      "destination": "/sink-repair",
+      "permanent": true
+    },
+    {
+      "source": "/sump-pump-installation.html",
+      "destination": "/sump-pump-installation",
+      "permanent": true
+    },
+    {
+      "source": "/sump-pump-repair.html",
+      "destination": "/sump-pump-repair",
+      "permanent": true
+    },
+    {
+      "source": "/tankless-water-heater-installation.html",
+      "destination": "/tankless-water-heater-installation",
+      "permanent": true
+    },
+    {
+      "source": "/tankless-water-heater-repair.html",
+      "destination": "/tankless-water-heater-repair",
+      "permanent": true
+    },
+    {
+      "source": "/toilet-installation.html",
+      "destination": "/toilet-installation",
+      "permanent": true
+    },
+    {
+      "source": "/toilet-repair.html",
+      "destination": "/toilet-repair",
+      "permanent": true
+    },
+    {
+      "source": "/water-heater-installation.html",
+      "destination": "/water-heater-installation",
+      "permanent": true
+    },
+    {
+      "source": "/water-heater-repair.html",
+      "destination": "/water-heater-repair",
+      "permanent": true
+    },
+    {
+      "source": "/water-softener-installation.html",
+      "destination": "/water-softener-installation",
+      "permanent": true
+    },
+    {
+      "source": "/water-softener-repair.html",
+      "destination": "/water-softener-repair",
+      "permanent": true
+    }
+  ]
+}
